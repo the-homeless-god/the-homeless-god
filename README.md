@@ -10,6 +10,18 @@
 
 </div>
 
+## :speech_balloon: Contact Me
+
+[![Email](https://img.shields.io/badge/Email-zimtir%40mail.ru-blue)](mailto:zimtir@mail.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-%40the__homeless__god-blue)](https://t.me/the_homeless_god)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue)](https://www.facebook.com/profile.php?id=100006956115543)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/the-homeless-god)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-blue)](https://www.instagram.com/the_homeless_god)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/marat-z/)
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/THG_Marat_Z)
+[![VK](https://img.shields.io/badge/VK-Profile-blue)](https://vk.com/the_homeless_god)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-blue)](https://www.youtube.com/channel/UCJ-P1V1_OdLH6_iWejitm5g?view_as=subscriber)
+
 Welcome to my GitHub profile! I'm an all-inclusive IT Professional with a strong background in various programming languages and technologies. Check out my repositories for some of my work and don't hesitate to get in touch!
 
 ## :briefcase: Career & Experience
@@ -120,15 +132,22 @@ Welcome to my GitHub profile! I'm an all-inclusive IT Professional with a strong
 ![AWS Device Farm](https://img.shields.io/badge/AWS_Device_Farm-FullStack-232F3E?style=for-the-badge&logo=Amazon-AWS)
 
 </div>
-  
-## :speech_balloon: Contact Me
 
-[![Email](https://img.shields.io/badge/Email-zimtir%40mail.ru-blue)](mailto:zimtir@mail.ru)
-[![Telegram](https://img.shields.io/badge/Telegram-%40the__homeless__god-blue)](https://t.me/the_homeless_god)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue)](https://www.facebook.com/profile.php?id=100006956115543)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/the-homeless-god)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-blue)](https://www.instagram.com/the_homeless_god)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/marat-z/)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/THG_Marat_Z)
-[![VK](https://img.shields.io/badge/VK-Profile-blue)](https://vk.com/the_homeless_god)
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-blue)](https://www.youtube.com/channel/UCJ-P1V1_OdLH6_iWejitm5g?view_as=subscriber)
+## My Articles :book:
+
+Here is a summary of my articles:
+
+1. [Career growth for software engineers: becoming a leader](https://github.com/the-homeless-god/Profile/blob/master/Articles/Career%20growth%20for%20software%20engineers%3A%20becoming%20a%20leader.md) - Exploring the path to leadership roles in software engineering.
+2. [How to Talk to Your Boss About Career Growth in Software Engineering](https://github.com/the-homeless-god/Profile/blob/master/Articles/How%20to%20Talk%20to%20Your%20Boss%20About%20Career%20Growth%20in%20Software%20Engineering.md) - Tips for discussing career progression with your supervisor.
+3. [IT-тренды](https://github.com/the-homeless-god/Profile/blob/master/Articles/IT-%D1%82%D1%80%D0%B5%D0%BD%D0%B4%D1%8B.md) - An overview of IT trends and innovations.
+4. [Introspection of biochemical processes using biocybernetic methods](https://github.com/the-homeless-god/Profile/blob/master/Articles/Introspection%20of%20biochemical%20processes%20using%20biocybernetic%20methods.md) - Examining biochemical processes with the help of biocybernetics.
+5. [JavaScript: Functional Programming vs OOP](https://github.com/the-homeless-god/Profile/blob/master/Articles/JavaScript%3A%20Functional%20Programming%20vs%20OOP.md) - A comparison between functional programming and object-oriented programming in JavaScript.
+6. [MEMOIZATION AND AGGREGATION IN THE VISUALIZATION OF THE CHEMICAL COMPOUNDS CONSTRUCTION](https://github.com/the-homeless-god/Profile/blob/master/Articles/MEMOIZATION%20AND%20AGGREGATION%20IN%20THE%20VISUALIZATION%20OF%20THE%20CHEMICAL%20COMPOUNDS%20CONSTRUCTION.md) - Exploring memoization and aggregation techniques in the visualization of chemical compound construction.
+7. [Machine learning for creating web and mobile interfaces on the basis of users' preferences](https://github.com/the-homeless-god/Profile/blob/master/Articles/Machine%20learning%20for%20creating%20web%20and%20mobile%20interfaces%20on%20the%20basis%20of%20users'%20preferences.md) - Utilizing machine learning to design user interfaces based on user preferences.
+8. [Operation system of 21st century](https://github.com/the-homeless-god/Profile/blob/master/Articles/Operation%20system%20of%2021st%20century.md) - Discussing the features and advances in modern operating systems.
+9. [Risk analysis and prospects using biometric technologies in the digital economy](https://github.com/the-homeless-god/Profile/blob/master/Articles/Risk%20analysis%20and%20prospects%20using%20biometric%20technologies%20in%20the%20digital%20economy.md) - Analyzing risks and opportunities in using biometric technologies within the digital economy.
+10. [Top 60+ front-end developer interview questions](https://github.com/the-homeless-god/Profile/blob/master/Articles/top%2060%2B%20front%20end%20developer%20interview%20questions.md) - A comprehensive list of front-end developer interview questions to help you prepare for job interviews.
+11. [Как выбрать для себя направление в IT](https://github.com/the-homeless-god/Profile/blob/master/Articles/%D0%9A%D0%B0%D0%BA%20%D0%B2%D1%8B%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B5%D0%B1%D1%8F%20%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20IT.md) - A guide to choosing the right IT career path for yourself.
+12. [О чём говорят программисты](https://github.com/the-homeless-god/Profile/blob/master/Articles/%D0%9E%20%D1%87%D1%91%D0%BC%20%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D1%8F%D1%82%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D1%8B.md) - An article about the conversations and topics of interest among programmers.
+13. [Подборка расширений VS Code для full stack SDE](https://github.com/the-homeless-god/Profile/blob/master/Articles/%D0%9F%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%D0%BA%D0%B0%20%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B9%20VS%20Code%20%D0%B4%D0%BB%D1%8F%20full%20stack%20SDE.md) - A curated list of recommended Visual Studio Code extensions for full-stack software development engineers.
+  
