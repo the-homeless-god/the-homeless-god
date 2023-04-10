@@ -151,3 +151,18 @@ Here is a summary of my articles:
 12. [О чём говорят программисты](https://github.com/the-homeless-god/Profile/blob/master/Articles/%D0%9E%20%D1%87%D1%91%D0%BC%20%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D1%8F%D1%82%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D1%8B.md) - An article about the conversations and topics of interest among programmers.
 13. [Подборка расширений VS Code для full stack SDE](https://github.com/the-homeless-god/Profile/blob/master/Articles/%D0%9F%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%D0%BA%D0%B0%20%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B9%20VS%20Code%20%D0%B4%D0%BB%D1%8F%20full%20stack%20SDE.md) - A curated list of recommended Visual Studio Code extensions for full-stack software development engineers.
   
+## Fun projects
+
+### React: Piano
+
+- [Repository](https://github.com/the-homeless-god/Piano)
+- [DEMO](https://the-homeless-god.github.io/Piano/build/index.html)
+
+![image](https://user-images.githubusercontent.com/32175240/230887876-50790af7-ba7a-46c7-80ec-c217b043e95d.png)
+
+### JavaScript: Video Timer Generator
+
+- [Repository](https://github.com/the-homeless-god/video-timer-generator)
+- [DEMO](https://the-homeless-god.github.io/video-timer-generator)
+
+![image](https://user-images.githubusercontent.com/32175240/230887953-a6208df2-b783-4a05-a42a-8e00c7fd6b49.png)
