@@ -156,6 +156,8 @@ Here is a summary of my articles:
 6. [Как выбрать для себя направление в IT](https://github.com/the-homeless-god/Profile/blob/master/Articles/%D0%9A%D0%B0%D0%BA%20%D0%B2%D1%8B%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B5%D0%B1%D1%8F%20%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20IT.md) - A guide to choosing the right IT career path for yourself.
 7. [О чём говорят программисты](https://github.com/the-homeless-god/Profile/blob/master/Articles/%D0%9E%20%D1%87%D1%91%D0%BC%20%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D1%8F%D1%82%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D1%8B.md) - An article about the conversations and topics of interest among programmers.
 8. [Подборка расширений VS Code для full stack SDE](https://github.com/the-homeless-god/Profile/blob/master/Articles/%D0%9F%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%D0%BA%D0%B0%20%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B9%20VS%20Code%20%D0%B4%D0%BB%D1%8F%20full%20stack%20SDE.md) - A curated list of recommended Visual Studio Code extensions for full-stack software development engineers.
+9. [Инди-дев-(б|в)лог: 1.0.0 — Инициализация](https://habr.com/ru/articles/679798/)
+10. [Развертываем peer-to-peer чат с голосом, видео, шарингом экрана, файлов и паролем](https://habr.com/ru/articles/805889/)
 
 ## Daily Dev
 
