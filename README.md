@@ -1,12 +1,13 @@
 # Hey-hey! Nice to e-meet you! :computer: :rocket:
 
-<div style="display:flex">
+Profile views:
 
-![](https://raw.githubusercontent.com/the-homeless-god/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/the-homeless-god/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://profile-counter.glitch.me/the-homeless-god/count.svg)
 
-![](https://raw.githubusercontent.com/the-homeless-god/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/the-homeless-god/github-stats/master/generated/languages.svg#gh-light-mode-only)
+<div style="display:flex; ">
+
+
+![](https://raw.githubusercontent.com/the-homeless-god/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/the-homeless-god/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/the-homeless-god/github-stats/master/generated/languages.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/the-homeless-god/github-stats/master/generated/languages.svg#gh-light-mode-only) 
 
 </div>
 
