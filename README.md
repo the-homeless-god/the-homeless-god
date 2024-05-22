@@ -4,12 +4,6 @@ Profile views:
 
 ![](https://profile-counter.glitch.me/the-homeless-god/count.svg)
 
-<div style="display:flex; ">
-
-
-![](https://raw.githubusercontent.com/the-homeless-god/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/the-homeless-god/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/the-homeless-god/github-stats/master/generated/languages.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/the-homeless-god/github-stats/master/generated/languages.svg#gh-light-mode-only) 
-
-</div>
 
 ## :speech_balloon: Contact Me
 
@@ -24,6 +18,19 @@ Profile views:
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-blue)](https://www.youtube.com/channel/UCJ-P1V1_OdLH6_iWejitm5g?view_as=subscriber)
 
 Welcome to my GitHub profile! I'm an all-inclusive IT Professional with a strong background in various programming languages and technologies. Check out my repositories for some of my work and don't hesitate to get in touch!
+
+## Metrics
+
+<div style="display: flex">
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+</div>
+
+
+<div style="display:flex; ">
+
+![](https://raw.githubusercontent.com/the-homeless-god/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/the-homeless-god/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/the-homeless-god/github-stats/master/generated/languages.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/the-homeless-god/github-stats/master/generated/languages.svg#gh-light-mode-only) 
+
+</div>
 
 ## :briefcase: Career & Experience
 
