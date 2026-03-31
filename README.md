@@ -2,7 +2,7 @@
 
 Profile views:
 
-![](https://profile-counter.glitch.me/the-homeless-god/count.svg)
+![](https://komarev.com/ghpvc/?username=the-homeless-god&style=flat-square)
 
 
 ## :speech_balloon: Contact Me
