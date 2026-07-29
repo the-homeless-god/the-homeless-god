@@ -1,188 +1,103 @@
-# Hey-hey! Nice to e-meet you! :computer: :rocket:
+<p align="center">
+  <img src="./assets/digitable-profile-cover.jpg" alt="Marat Zimnurov and the Digitable engineering landscape" width="100%">
+</p>
 
-Profile views:
+<h1 align="center">Marat Zimnurov</h1>
 
-![](https://komarev.com/ghpvc/?username=the-homeless-god&style=flat-square)
+<p align="center">
+  <strong>Руководитель разработки · full-stack инженер · преподаватель · исследователь · автор Digitable</strong>
+</p>
 
+<p align="center">
+  Строю продукты и инженерные системы, развиваю команды и превращаю накопленную практику в открытые инструменты, курсы и книги.
+</p>
 
-## :speech_balloon: Contact Me
+<p align="center">
+  <a href="https://digitable.life">Digitable Life</a> ·
+  <a href="https://courses.digitable.life">Courses</a> ·
+  <a href="https://courses.digitable.life/authors/marat-zimnurov/">Полный профиль</a> ·
+  <a href="https://t.me/the_homeless_god">Telegram</a> ·
+  <a href="mailto:zimtir@mail.ru">Email</a>
+</p>
 
-[![Email](https://img.shields.io/badge/Email-zimtir%40mail.ru-blue)](mailto:zimtir@mail.ru)
-[![Telegram](https://img.shields.io/badge/Telegram-%40the__homeless__god-blue)](https://t.me/the_homeless_god)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue)](https://www.facebook.com/profile.php?id=100006956115543)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/the-homeless-god)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-blue)](https://www.instagram.com/the_homeless_god)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/marat-z/)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/THG_Marat_Z)
-[![VK](https://img.shields.io/badge/VK-Profile-blue)](https://vk.com/the_homeless_god)
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-blue)](https://www.youtube.com/channel/UCJ-P1V1_OdLH6_iWejitm5g?view_as=subscriber)
+---
 
-Welcome to my GitHub profile! I'm an all-inclusive IT Professional with a strong background in various programming languages and technologies. Check out my repositories for some of my work and don't hesitate to get in touch!
+| 10 лет в коммерческой разработке | 300+ технических интервью | Команды до 20 человек | 12 научных работ |
+| :---: | :---: | :---: | :---: |
 
-## Metrics
+## Сейчас
 
-<div style="display: flex">
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-</div>
+- Работаю на стыке продукта, архитектуры, full-stack разработки и развития людей в [AvitoTech](https://github.com/avito-tech).
+- Читаю лекции и веду практики по AI в ИТМО; преподаю функциональное программирование и тестирование ПО в ИГХТУ, руковожу студенческими исследованиями.
+- Развиваю [Digitable](https://digitable.life): продукты, open source, образовательный портал, видео и открытую книгу по инженерии коммуникации.
+- Открыт к докладам, преподаванию, экспертным консультациям и инженерному сотрудничеству.
 
+## Куда идти дальше
 
-<div style="display:flex; ">
+| Направление | Что внутри |
+| --- | --- |
+| [Digitable Life](https://digitable.life) | Единая точка входа в продукты, услуги, материалы и команду Digitable. |
+| [Digitable Courses](https://courses.digitable.life) | Бесплатные статьи, курсы, видео, роадмапы и практические разборы по полному инженерному циклу. |
+| [Communication Engineering](https://courses.digitable.life/communication-engineering/) | Открытая книга о мышлении, текстах, встречах, лидерстве, исследованиях и коммуникации с AI. |
+| [Профиль автора](https://courses.digitable.life/authors/marat-zimnurov/) | Полная карьерная история, проекты, преподавание, научные публикации, доклады и резюме. |
 
-![](https://raw.githubusercontent.com/the-homeless-god/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/the-homeless-god/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/the-homeless-god/github-stats/master/generated/languages.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/the-homeless-god/github-stats/master/generated/languages.svg#gh-light-mode-only) 
+## Избранные продукты и open source
 
-</div>
+| Проект | Зачем он существует |
+| --- | --- |
+| [Voicer](https://github.com/the-homeless-god/voicer) · [разбор](https://habr.com/ru/articles/1011072/) | Локальный AI-аудиоконвейер: перевод, клонирование голоса и переозвучка видео. |
+| [Digitable Courses](https://courses.digitable.life) | Карта инженерного развития вместо бесконечной ленты материалов. |
+| [Digitable Novel](https://novel.digitable.life) | Интерактивная новелла с собственным web-runtime, сценами и озвучкой. |
+| [Digitable Chat](https://chat.digitable.life) · [разбор](https://habr.com/ru/articles/805889/) | P2P-связь в браузере: голос, видео, экран и файлы через WebRTC. |
+| [WoW Voiceover](https://github.com/the-homeless-god/wow-voiceover) · [release](https://www.curseforge.com/wow/addons/voiceover-sounds-vanilla-russian) | Русская озвучка World of Warcraft Classic и поддерживаемый релизный процесс. |
+| [Logseq Template Buttons](https://github.com/the-homeless-god/logseq-template-buttons) · [Automatic Linker](https://github.com/the-homeless-god/logseq-automatic-linker-international) | Инструменты для управляемой, связной базы знаний. |
+| [macOS Awesome Terminal](https://github.com/the-homeless-god/macos-awesome-terminal) · [dotfiles](https://github.com/the-homeless-god/dotfiles) | Воспроизводимое терминальное окружение для ежедневной инженерной работы. |
+| [SENT Template](https://github.com/the-homeless-god/SENT-template) | Исторически самый заметный из моих публичных шаблонов: быстрый старт full-stack приложения. |
 
-## :briefcase: Career & Experience
+Поддерживаемые форки и эксперименты: [Qwen3-TTS-Rust](https://github.com/the-homeless-god/Qwen3-TTS-Rust), [vim-ollama](https://github.com/the-homeless-god/vim-ollama), [NestJS AsyncAPI](https://github.com/the-homeless-god/nestjs-asyncapi), [Chrome Bionic Reader](https://github.com/the-homeless-god/chrome-bionic-reader).
 
-|                                                                         About 7 years of commercial experience                                                                          |                                                                    More than 300 technical interviews                                                                     |                                                                 B2 English                                                                  |                                                         Master degree in Computer Science                                                         |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: |
-|                         [![Kontur](https://user-images.githubusercontent.com/32175240/229384456-d2e0cb2e-5f72-4aee-baa0-1b60ea660367.png)](https://kontur.ru/)                          |            [![Kontur Diadoc](https://user-images.githubusercontent.com/32175240/229384654-c21e5858-94df-4f60-b5c5-538d9766f1c4.png)](https://kontur.ru/diadoc)            |  [![Akvelon](https://user-images.githubusercontent.com/32175240/229384466-9331cd67-3c77-47a1-b129-e34f9ff46e6d.png)](https://akvelon.com/)  | [![Microsoft](https://user-images.githubusercontent.com/32175240/229384495-a88dfecd-2549-4233-acb5-0c84e962817e.png)](https://www.microsoft.com/) |
-|          [![Microsoft Power BI](https://user-images.githubusercontent.com/32175240/229384634-74b03560-f87a-4474-9a43-09bfe2bedaeb.png)](https://powerbi.microsoft.com/en-au/)           | [![Microsoft Dynamics 365](https://user-images.githubusercontent.com/32175240/229384753-7e51ad49-ede0-4733-88d0-2ab9b1bb0b1e.png)](https://dynamics.microsoft.com/en-us/) |  [![Tproger](https://user-images.githubusercontent.com/32175240/229384675-eb9e5fff-fe68-4b7c-aade-20a9b9833f4a.png)](https://tproger.ru/)   |      [![EPAM](https://user-images.githubusercontent.com/32175240/229384516-8414193f-7b94-4335-af64-736275fc7887.png)](https://www.epam.com/)      |
-| [![Ivanovo State University of Chemistry and Technology](https://user-images.githubusercontent.com/32175240/229384705-3945ebe9-a1ab-4d0f-bec2-9aa07d5f2b55.png)](https://www.isuct.ru/) |                  [![Adjust](https://user-images.githubusercontent.com/32175240/229384725-6d52ffcd-3cda-4753-8f07-217a6c3116b6.png)](http://adjust.com/)                   | [![Roadmunk](https://user-images.githubusercontent.com/32175240/229384502-1b4107a8-c213-41fc-a23d-adcd13018888.png)](https://roadmunk.com/) |      [![Xsolla](https://user-images.githubusercontent.com/32175240/229384508-90e98f28-70e1-4fd4-853c-23f7cadba41a.png)](https://xsolla.com/)      |  |  |  |
+## Инженерный фокус
 
-## Skills & Awards :trophy:
+`TypeScript` · `React` · `Node.js` · `.NET / C#` · `Python` · `Rust` · `PostgreSQL` · `Docker` · `CI/CD`
 
-<table>
-  <tr>
-    <th>Category</th>
-    <th>Skills</th>
-  </tr>
-  <tr>
-    <td>Languages</td>
-    <td>
-      <ul>
-        <li>General: C++, C, CSS, HTML, PowerShell, SQL, DAX, Kotlin, Elixir, Python, Bash, PowerShell, Go</li>
-        <li>
-          C# & .NET: ASP.NET/ASP.NET CORE MVC Framework, Xamarin Forms, .NET/.NET Core Framework, Entity Framework, Microsoft Bot Framework, CEF Sharp
-        </li>
-        <li>Java: Java FX, Android, J2ME, Swing</li>
-        <li>
-          Javascript & Typescript: Backbone, Titanium, Node, Deno, Angular, React, Vue, Svelte, Nuxt, jQuery, Puppeteer, Chrome Extensions, Helmet, Google/2GIS map API, Selenium, Cypress, VS Code Extensions, Passport, Sapper, Native Script, Jest, Mocha, Nyc, Playwright, Cucumber
-        </li>
-        <li>CSS: Bootstrap, Vue Material, Foundation, SASS, SCSS, PostCSS</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>DBMS</td>
-    <td>
-      MS SQL, MySQL, SQLite, MongoDB, Azure SQL, Managed Databases, Redis, Cassandra, SapHana, SapBusiness Warehouse, Azure Warehouse, Amazon Redshift, Teradata, IBM Netezza, Hadoop, PostgreSQL,
-    </td>
-  </tr>
-  <tr>
-    <td>IDEs</td>
-    <td>
-      MS Visual Studio 13-19, VS Code, Net Beans, Android Studio, Dev-C++, Unity, PowerShell ISE, Atom, Vim, Nano, Vi
-    </td>
-  </tr>
-  <tr>
-    <td>Tools</td>
-    <td>
-      OWASP ZAP, Chrome Extensions, SQL Management Studio, Heidi SQL, MongoDB Compass, Cygwin, Putty, Git Bash, Source Tree, GitHub Desktop, VS Code Remote, MSBuild, Dotnet Build, CoreXT, CodeFlow, Nuget, WinForms, WPF, Rabbit MQ, Cypress UI
-    </td>
-  </tr>
-  <tr>
-    <td>Cloud & CI</td>
-    <td>
-      Azure DevOps (Full CI/CD processes), Azure PowerShell SDK, Azure Templates, Cloudflare, Google Cloud Platform, Digital Ocean, GitHub Actions, GitLab CI, BitBucket Pipelines, NPM & Docker container registries
-    </td>
-  </tr>
-  <tr>
-    <td>VCS</td>
-    <td>
-      GIT (GitHub, GitLab, Bitbucket, Git Kraken), SVN + Tortoise
-    </td>
-  </tr>
-  <tr>
-    <td>Other</td>
-    <td>
-      Docker, Docker Compose, Nginx, Apache Tomcat, IIS Express, Virtual Box, Azure Portal, SSH
-    </td>
-  </tr>
-  <tr>
-    <td>Other skills</td>
-    <td>
-      OOP and functional programming, ML/AI/GA skills
-    </td>
-  </tr>
-</table>
+- архитектура и system design;
+- full-stack разработка и сложные интеграции;
+- testing culture, качество и наблюдаемость;
+- AI/LLM, локальные модели и прикладные инструменты;
+- техническое лидерство, найм, менторинг и развитие команд.
 
-## :fire: Preferable Stack
+Из измеримых результатов: 700+ автотестов в Power BI Desktop, сокращение разработки одной конфигурации с месяца до часа в Adjust, security-аудиты и внедрение инженерных практик в нескольких продуктовых командах. Контекст и ограничения этих кейсов собраны в [полном профиле](https://courses.digitable.life/authors/marat-zimnurov/).
 
-<div align="center">
+## Преподавание, наука и выступления
 
-### .NET Full-Stack
+- ИТМО: лекции и практики по искусственному интеллекту.
+- ИГХТУ: функциональное программирование, тестирование ПО, факультативы, научное руководство и работа в экзаменационной комиссии.
+- 12 научных работ; профиль исследователя: [ORCID 0000-0002-3115-0912](https://orcid.org/0000-0002-3115-0912).
+- Доклады на HolyJS, CodeFest и отраслевых площадках. Новый доклад: [«От Аристотеля до runtime: формально доказуемый TypeScript и AI, который проверяет свой код»](https://holyjs.ru/talks/20011201-from-aristotle-to-runtime-formally-provable-typescript-and-ai-that-verifies-its-own-code/).
+- Пишу [Communication Engineering](https://courses.digitable.life/communication-engineering/) как открытую инженерную базу знаний, а не только линейную книгу.
 
-![ASP.NET](https://img.shields.io/badge/ASP.NET-FullStack-512BD4?style=for-the-badge&logo=.net)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-FullStack-512BD4?style=for-the-badge&logo=.net)
-![WinForms](https://img.shields.io/badge/WinForms-FullStack-512BD4?style=for-the-badge)
-![WPF](https://img.shields.io/badge/WPF-FullStack-512BD4?style=for-the-badge)
-![PowerShell](https://img.shields.io/badge/PowerShell-FullStack-5391FE?style=for-the-badge&logo=PowerShell)
-![Azure](https://img.shields.io/badge/Azure-FullStack-0089D6?style=for-the-badge&logo=Microsoft-Azure)
-![EF/EF Core](https://img.shields.io/badge/EF/EF_Core-FullStack-512BD4?style=for-the-badge)
-![MS SQL](https://img.shields.io/badge/MS_SQL-FullStack-CC2927?style=for-the-badge&logo=Microsoft-SQL-Server)
+## Тексты, видео и творчество
 
-### Full-Stack Web Development
-  
-![Angular.js](https://img.shields.io/badge/Angular.js-FullStack-DD0031?style=for-the-badge&logo=AngularJS)
-![Angular 2+](https://img.shields.io/badge/Angular_2+-FullStack-DD0031?style=for-the-badge&logo=Angular)
-![React](https://img.shields.io/badge/React-FullStack-61DAFB?style=for-the-badge&logo=React)
-![Sapper](https://img.shields.io/badge/Sapper-FullStack-FF3E00?style=for-the-badge)
-![Selenium](https://img.shields.io/badge/Selenium-FullStack-43B02A?style=for-the-badge&logo=Selenium)
-![Cypress](https://img.shields.io/badge/Cypress-FullStack-17202C?style=for-the-badge&logo=Cypress)
-![Gulp](https://img.shields.io/badge/Gulp-FullStack-CF4647?style=for-the-badge&logo=gulp)
-![Webpack](https://img.shields.io/badge/Webpack-FullStack-8DD6F9?style=for-the-badge&logo=Webpack)
-![Rollup](https://img.shields.io/badge/Rollup-FullStack-EC4A3F?style=for-the-badge&logo=rollup.js)
-![Snowpack](https://img.shields.io/badge/Snowpack-FullStack-711F9B?style=for-the-badge&logo=Snowpack)
-![Flow](https://img.shields.io/badge/Flow-FullStack-20232A?style=for-the-badge)
-![Redux/Saga/Ducks](https://img.shields.io/badge/Redux/Saga/Ducks-FullStack-764ABC?style=for-the-badge&logo=Redux)
-![Cucumber](https://img.shields.io/badge/Cucumber-FullStack-25A812?style=for-the-badge&logo=Cucumber)
-![AWS Device Farm](https://img.shields.io/badge/AWS_Device_Farm-FullStack-232F3E?style=for-the-badge&logo=Amazon-AWS)
+- [Habr](https://habr.com/ru/users/the_homeless_god/) и [Digitable Courses](https://courses.digitable.life): архитектура, frontend/backend, AI, privacy, accessibility, карьера и инженерная коммуникация.
+- [YouTube](https://www.youtube.com/@the_homeless_god/videos), [Rutube](https://rutube.ru/channel/38673349/videos/), [VK Video](https://vkvideo.ru/@club239193777) и [Twitch](https://www.twitch.tv/marat_zimnurov): доклады, стримы, разборы и эксперименты.
+- Веду открытый читательский архив в [Profile / Experience / Books](https://github.com/the-homeless-god/Profile/tree/master/Experience/Books).
+- Автор детской книги [«Я, папа и снежная экспедиция»](https://www.litres.ru/book/m-f-zimnurov/ya-papa-i-snezhnaya-ekspediciya-73836503/) и музыкальных проектов.
 
-</div>
+<details>
+<summary><strong>English summary</strong></summary>
 
-## My Articles :book:
+I am an engineering leader, full-stack engineer, educator, researcher, and the creator of Digitable. I work across product development, architecture, testing, CI/CD, technical leadership, and applied AI.
 
-Here is a summary of my articles:
+I currently build internal products and engineering practices at AvitoTech, teach AI at ITMO and software engineering subjects at ISUCT, and maintain an open ecosystem of courses, books, videos, and developer tools.
 
-### Science articles
+For the complete career history, talks, publications, and project case studies, see my [author profile](https://courses.digitable.life/authors/marat-zimnurov/).
 
-1. [Introspection of biochemical processes using biocybernetic methods](https://github.com/the-homeless-god/Profile/blob/master/Articles/Introspection%20of%20biochemical%20processes%20using%20biocybernetic%20methods.md) - Examining biochemical processes with the help of biocybernetics.
-2. [MEMOIZATION AND AGGREGATION IN THE VISUALIZATION OF THE CHEMICAL COMPOUNDS CONSTRUCTION](https://github.com/the-homeless-god/Profile/blob/master/Articles/MEMOIZATION%20AND%20AGGREGATION%20IN%20THE%20VISUALIZATION%20OF%20THE%20CHEMICAL%20COMPOUNDS%20CONSTRUCTION.md) - Exploring memoization and aggregation techniques in the visualization of chemical compound construction.
-3. [Machine learning for creating web and mobile interfaces on the basis of users' preferences](https://github.com/the-homeless-god/Profile/blob/master/Articles/Machine%20learning%20for%20creating%20web%20and%20mobile%20interfaces%20on%20the%20basis%20of%20users'%20preferences.md) - Utilizing machine learning to design user interfaces based on user preferences.
-4. [Operation system of 21st century](https://github.com/the-homeless-god/Profile/blob/master/Articles/Operation%20system%20of%2021st%20century.md) - Discussing the features and advances in modern operating systems.
-5. [Risk analysis and prospects using biometric technologies in the digital economy](https://github.com/the-homeless-god/Profile/blob/master/Articles/Risk%20analysis%20and%20prospects%20using%20biometric%20technologies%20in%20the%20digital%20economy.md) - Analyzing risks and opportunities in using biometric technologies within the digital economy.
-6. [Системный анализ и оптимизация количественных показателей эффективности в технологических проектах на основе гибких методологий](https://github.com/the-homeless-god/Profile/blob/master/Articles/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B8%20%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BA%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B2%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%D1%85%20%D0%BD%D0%B0%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B5%20%D0%B3%D0%B8%D0%B1%D0%BA%D0%B8%D1%85%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B9.md) - Research of the Key Performance Indicators (KPI) system within the framework of agile project management methodologies, such as Agile Scrum, Agile Kanban, and Rapid Application Development (RAD)
+</details>
 
-### Blog articles
+## Связаться
 
-1. [Career growth for software engineers: becoming a leader](https://github.com/the-homeless-god/Profile/blob/master/Articles/Career%20growth%20for%20software%20engineers%3A%20becoming%20a%20leader.md) - Exploring the path to leadership roles in software engineering.
-2. [How to Talk to Your Boss About Career Growth in Software Engineering](https://github.com/the-homeless-god/Profile/blob/master/Articles/How%20to%20Talk%20to%20Your%20Boss%20About%20Career%20Growth%20in%20Software%20Engineering.md) - Tips for discussing career progression with your supervisor.
-3. [IT-тренды](https://github.com/the-homeless-god/Profile/blob/master/Articles/IT-%D1%82%D1%80%D0%B5%D0%BD%D0%B4%D1%8B.md) - An overview of IT trends and innovations.
-4. [JavaScript: Functional Programming vs OOP](https://github.com/the-homeless-god/Profile/blob/master/Articles/JavaScript%3A%20Functional%20Programming%20vs%20OOP.md) - A comparison between functional programming and object-oriented programming in JavaScript.
-5. [Top 60+ front-end developer interview questions](https://github.com/the-homeless-god/Profile/blob/master/Articles/top%2060%2B%20front%20end%20developer%20interview%20questions.md) - A comprehensive list of front-end developer interview questions to help you prepare for job interviews.
-6. [Как выбрать для себя направление в IT](https://github.com/the-homeless-god/Profile/blob/master/Articles/%D0%9A%D0%B0%D0%BA%20%D0%B2%D1%8B%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B5%D0%B1%D1%8F%20%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20IT.md) - A guide to choosing the right IT career path for yourself.
-7. [О чём говорят программисты](https://github.com/the-homeless-god/Profile/blob/master/Articles/%D0%9E%20%D1%87%D1%91%D0%BC%20%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D1%8F%D1%82%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D1%8B.md) - An article about the conversations and topics of interest among programmers.
-8. [Подборка расширений VS Code для full stack SDE](https://github.com/the-homeless-god/Profile/blob/master/Articles/%D0%9F%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%D0%BA%D0%B0%20%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B9%20VS%20Code%20%D0%B4%D0%BB%D1%8F%20full%20stack%20SDE.md) - A curated list of recommended Visual Studio Code extensions for full-stack software development engineers.
-9. [Инди-дев-(б|в)лог: 1.0.0 — Инициализация](https://habr.com/ru/articles/679798/)
-10. [Развертываем peer-to-peer чат с голосом, видео, шарингом экрана, файлов и паролем](https://habr.com/ru/articles/805889/)
-
-## Daily Dev
-
-<a href="https://app.daily.dev/the_homeless_god"><img src="https://api.daily.dev/devcards/9aae145f75cb4dcebbd04fc210298cb2.png?r=p3d" width="400" alt="Marat Zimnurov's Dev Card"/></a>
-
-## Fun projects
-
-### React: Piano
-
-- [Repository](https://github.com/the-homeless-god/Piano)
-- [DEMO](https://the-homeless-god.github.io/Piano/build/index.html)
-
-![image](https://user-images.githubusercontent.com/32175240/230887876-50790af7-ba7a-46c7-80ec-c217b043e95d.png)
-
-### JavaScript: Video Timer Generator
-
-- [Repository](https://github.com/the-homeless-god/video-timer-generator)
-- [DEMO](https://the-homeless-god.github.io/video-timer-generator)
-
-![image](https://user-images.githubusercontent.com/32175240/230887953-a6208df2-b783-4a05-a42a-8e00c7fd6b49.png)
+[Telegram](https://t.me/the_homeless_god) ·
+[Email](mailto:zimtir@mail.ru) ·
+[LinkedIn](https://www.linkedin.com/in/marat-z/) ·
+[Habr](https://habr.com/ru/users/the_homeless_god/) ·
+[ORCID](https://orcid.org/0000-0002-3115-0912)
